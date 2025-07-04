@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+// int arr[] = {2,4,6,3,7,9}
 public class FirstNonRepeatedCharacter {
     public static void main(String[] args) {
         System.out.println("Enter a String");
