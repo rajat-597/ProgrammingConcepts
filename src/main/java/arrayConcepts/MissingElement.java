@@ -3,7 +3,7 @@ package arrayConcepts;
 public class MissingElement {
     public static void main(String[] args) {
 
-        int arr [] = {1,2,3,5};
+        int arr [] = {1,2,3,4,5,7,8,9};
 
         // use natural number formula to calculate sum of natural numbers
         int n = arr.length+1;

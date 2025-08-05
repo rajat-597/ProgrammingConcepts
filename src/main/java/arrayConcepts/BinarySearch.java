@@ -3,7 +3,7 @@ package arrayConcepts;
 public class BinarySearch {
     public static void main(String[] args) {
 
-        int [] arr = {10,20,30,40,50,60,70,80};
+        int [] arr = {10,20,30,40,50,60,70};
         int target = 20;
 
         int start = 0;

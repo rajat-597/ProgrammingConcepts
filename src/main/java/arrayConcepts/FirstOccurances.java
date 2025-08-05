@@ -15,7 +15,7 @@ public class FirstOccurances {
 
         for(Map.Entry<Integer,Integer> entry : data.entrySet()){
             if(entry.getValue()==1){
-                System.out.print(entry.getKey());
+                System.out.print(entry.getKey() + " ");
             }
         }
     }
